@@ -1,0 +1,7 @@
+print ("===Simple calculator===")
+num1 = float(input("pehla number likho: "))
+num2 = float(input("dusra number likho: "))
+print ("Addition: ", num1 + num2)
+print ("subtraction:",num1 - num2)
+print ("multiplication:", num1 * num2)
+print ("division:", num1 / num2)
